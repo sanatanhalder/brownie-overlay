@@ -4,5 +4,5 @@
 
 
 ```zsh
-eselect repository add brownie-overlay git https://github.com/sanatan/brownie-overlay.git
+eselect repository add brownie-overlay git https://github.com/sanatanhalder/brownie-overlay.git
 ```
